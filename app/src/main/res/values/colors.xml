@@ -1,6 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimary">#303030</color>
+    <color name="colorPrimaryDark">#7C7E7F</color>
+    <color name="colorAccent">#13212B</color>
+    <color name="sign_in_ripple_color">#993551</color>
+    <color name="sign_in_blue">#0171C3</color>
+
+    <color name="list_item_title">#303030</color>
+    <color name="list_item">#7C7E7F</color>
+    <color name="list_background">#13212B</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="tab_background_color">#fff84956</color>
+    <color name="tab_selected_color">#ffc63a45</color>
+    <color name="btn_background_color">#ff2dd8ff</color>
+    <color name="bkg_light_gray">#E0E0E0</color>
+    <color name="light_color_text">#8a8a8a</color>
+    <color name="lighter_grey">#c3bcbc</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+
+    <color name="lbl_name">#333333</color>
+    <color name="list_row_bg">#cccccc</color>
+
+    <color name="black_text">#222222</color>
+    <color name="red_text">#ff6861</color>
+    <color name="green_text">#66984E</color>
+    <color name="blue_text">#74C8FD</color>
+
+    <color name="bkg_black">#ff0a2220</color>
+    <color name="bkg_vessel_layout">#80222222</color>
+    <color name="bkg_dark_blue">#3A5BA2</color>
+    <color name="bkg_blue_icon">#ff69b9fe</color>
+    <color name="bkg_red_icon">#f95c3a</color>
+    <color name="notification_icon">#782324</color>
+    <color name="DoARemarks">#ffdddddd</color>
+
+    <color name="bg_btn_send">#1e6258</color>
+    <color name="bg_msg_input">#e8e8e8</color>
+    <color name="text_msg_input">#626262</color>
+    <color name="lblFromName">#ffdddddd</color>
+    <color name="bg_msg_right">#c9ffb4</color>
+    <color name="bg_msg_left">#e5e7eb</color>
+    <color name="title_gray">#434343</color>
+    <color name="list_divider_bg">#ffe4e4e4</color>
+    <item name="title_color" type="color">#666666</item>
+
+    <item name="blue" type="color">#30BDD3</item>
+    <item name="green" type="color">#8FC251</item>
+    <item name="orange" type="color">#FF9800</item>
+    <item name="darkblue" type="color">#4EA6F3</item>
+    <item name="brown" type="color">#BD6D28</item>
+    <item name="darkred" type="color">#F44336</item>
+    <item name="pink" type="color">#E6377A</item>
+    <item name="voilet" type="color">#A646B9</item>
+    <item name="lightpurple" type="color">#7C58BF</item>
+    <item name="navyblue" type="color">#5D6CBE</item>
+
+    <color name="input_chat_hint">#5e6266</color>
+
+    <color name="total_balance">#272643</color>
+    <color name="date_background">#ECECEC</color>
+    <color name="on_review_bg">#FEE8EA</color>
+    <color name="pending_bg">#FEEDDC</color>
+    <color name="pending_text">#FB863B</color>
+    <color name="review_text">#FB5D61</color>
+
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/voilet</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/darkblue</item>
+        <item>@color/brown</item>
+        <item>@color/navyblue</item>
+        <item>@color/darkred</item>
+        <item>@color/pink</item>
+        <item>@color/lightpurple</item>
+    </integer-array>
+
+    <!--Version2 new colors-->
+    <item name="theme_offline" type="color">#32315B</item>
+    <item name="menu_notifi_round" type="color">#FF6666</item>
+    <item name="theme_red" type="color">#FF6666</item>
+    <item name="low_focus_text" type="color">#969696</item>
+    <item name="accept_btn" type="color">#7FC668</item>
+    <item name="pending_btn" type="color">@color/orange</item>
+    <item name="remit_btn" type="color">#74C8FD</item>
+    <item name="decline_btn" type="color">#DEDEDE</item>
+    <item name="red_label" type="color">#E96A6D</item>
+    <item name="button_blue" type="color">#336799</item>
+    <item name="floating_bg" type="color">#F2606A</item>
+    <item name="chat_new" type="color">#329ACD</item>
+
+    <color name="transparent">#00000000</color>
+
+    <!--Onboard new colors-->
+    <item name="theme_onboard" type="color">#63403B</item>
+    <color name="qdms_list_bg">#f7f7f7</color>
+    <color name="date_bg">#F1F1F1</color>
+    <color name="switch_select">#009900</color>
+
 </resources>
